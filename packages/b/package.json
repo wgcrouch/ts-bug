@@ -1,0 +1,11 @@
+{
+  "name": "@ts-bug/b",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@ts-bug/a": "1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "3.0.3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "include": ["src/**/*"],
+  "compilerOptions": {
+    "outDir": "dist",
+    "declaration": true,
+    "baseUrl": ".",
+    "paths": {
+      "@ts-bug/a": ["../a"]
+    }
+    // "module": "esnext",
+    // "moduleResolution": "node"
+  }
+}
